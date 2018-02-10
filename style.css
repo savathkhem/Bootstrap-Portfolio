@@ -4,6 +4,10 @@ body {
     line-height: 1.8;
     color: #818181;
 }
+
+input{
+    width:100%;
+}
 .jumbotron {
     font-family: Montserrat, sans-serif;
     background-color: #4aaaa5;
